@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="160" viewBox="0 0 520 160" role="img" aria-labelledby="title desc">
+  <title id="title">3S People Management</title>
+  <desc id="desc">3S company logo with the People Management name.</desc>
+  <rect x="22" y="22" width="116" height="116" rx="20" fill="#245574"/>
+  <path d="M53 57h47c8 0 14 6 14 14s-6 14-14 14H72c-8 0-14 6-14 14s6 14 14 14h42" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M51 47h25L63 66z" fill="#71d1e4"/>
+  <text x="166" y="88" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">3S</text>
+  <text x="243" y="60" fill="#71d1e4" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">®</text>
+  <text x="168" y="119" fill="#dce8ef" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="1.2">PEOPLE MANAGEMENT</text>
+</svg>
+
